@@ -1,0 +1,2 @@
+- [ ] update diagram to support the restriction 
+  - no being able to reserve a room that is already reserved for a date 
